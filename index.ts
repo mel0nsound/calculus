@@ -125,7 +125,7 @@ function operator(txt: string, txt2: string,txtans:string) {
     let num1 = parseFloat(txt);
     let num2 = parseFloat(txt2);
     let numans = parseFloat(txtans);
-    let x :number =0;
+//     let x :number =0;
     
     if(equal == false){
         if (op == ' + ') {
