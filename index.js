@@ -126,7 +126,7 @@ function operator(txt, txt2, txtans) {
     var num1 = parseFloat(txt);
     var num2 = parseFloat(txt2);
     var numans = parseFloat(txtans);
-    var x = 0;
+//     var x = 0;
     if (equal == false) {
         if (op == ' + ') {
             ans = num1 + num2;
